@@ -109,6 +109,9 @@ margin-bottom: 1rem;
   {
     transform: rotate(0deg);
   }
+  .feature-box
+  {
+     width:100%;
 
 }
 #cta
