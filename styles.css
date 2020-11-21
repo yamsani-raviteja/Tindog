@@ -1,0 +1,132 @@
+#title
+{
+  background-color:#ff4c68;
+  padding: 3% 15%;
+}
+
+h1
+{
+font-family: 'Archivo Black', sans-serif;
+  font-size: 5rem;
+  line-height: 2;
+  color: #fff;
+}
+h2
+{
+  line-height: 3;
+}
+/* navbar css */
+.navbar
+{
+  padding-bottom: 4.5rem;
+}
+.navbar-brand
+{
+  font-size: 3.5rem;
+  font-weight: bolder;
+}
+.nav-link
+{
+  font-size: 1.5rem;
+  padding: 5%;
+}
+.Title-img
+{
+  margin-top: 10%;
+  width: 60%;
+  transform: rotate(25deg);
+
+}
+.download-button
+{
+  margin:5% 3% 5% 0;
+
+}
+p
+{
+  color: grey;
+}
+#features
+{
+  padding:7% 15%;
+}
+.feature-box
+{
+  padding: 2%;
+  text-align: center;
+}
+.pic
+{
+color: #ef8172;
+margin-bottom: 1rem;
+}
+.pic:hover{
+  color: #ff4c68;
+}
+
+#testimonials
+{
+  background-color: #ef8172;
+  text-align: center;
+  color: #fff;
+  padding-top: 10%;
+}
+.carousel-item
+{
+  padding:10%,15%;
+}
+.testimonials-picture
+{  padding-top: 15px;
+  width:10%;
+  border-radius: 100%;
+  border-bottom: 10px;
+  text-align: center;
+}
+#press
+{
+  background-color: #ef8172;
+  text-align: center;
+  padding:20px 5% 10%;
+}
+#pricing
+{
+  padding: 100px;
+  text-align: center;
+}
+
+.press-pictures
+{
+  width: 20%;
+  padding: 20px;
+}
+.pricing-column
+{
+  padding:3%;
+  text-align: center;
+}
+@media (max-width:1096px)  {
+  .Title-img
+  {
+    transform: rotate(0deg);
+  }
+
+}
+#cta
+{
+  background-color: #ff4c68;
+  padding: 7% 15%;
+  text-align: center;
+}
+.fab
+{
+  padding-right: 10px;
+}
+#footer
+{
+  padding: 50px;
+  text-align: center;
+}
+.icons
+{
+  margin:30px;
+}
